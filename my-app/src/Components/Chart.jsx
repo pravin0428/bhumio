@@ -62,6 +62,8 @@ function Chart() {
     setMiscFees(value);
   };
 
+  //note : need some improment to make the slider 
+  //as inbuild in graph and i have done it at ouside 
   return (
     <>
       <Container maxW={"4xl"} p="12" display="flex" gap={4} mt={10}>
